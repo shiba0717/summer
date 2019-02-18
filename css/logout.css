@@ -1,0 +1,22 @@
+body{
+  background-image : url("background_logout.jpg");
+  /* background-size: 1400px; */
+  background-size: cover;
+  font-family:"MV Boil";
+}
+
+ .log1{
+  font-size: 40;
+  font-family: "gungsuhche";
+  height: 10rem;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 20px;
+  margin: auto;
+ }
+
+  .log1 p {
+    color: #EEEEEE;
+  }

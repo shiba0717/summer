@@ -1,0 +1,57 @@
+h1{
+  font-size: 60px;
+  font-family: "Century Gothic";
+  border-bottom: solid 3px #cce4ff;
+  position: relative;
+  text-align: left;
+}
+
+h1:after {
+position: absolute;
+content: " ";
+display: block;
+border-bottom: solid 3px #5472cd;
+bottom: -3px;
+width: 20%;
+}
+body{
+  background-image : url("background_main_customer.jpg");
+  background-size: 1350px;
+  background-size: cover;
+  font-family:"MV Boil";
+}
+
+ p{
+   font-size: 30px;
+   font-family: "Comic Sans MS";
+   width:700px;
+   margin-right: auto;
+   margin-left: auto;
+ }
+
+ .select-box01{
+   width:700px;
+   margin-right: auto;
+   margin-left: auto;
+   text-align: center;
+ }
+
+ .send{
+   display: inline-block;
+   padding: 0.5em 1em;
+   text-decoration: none;
+   color: #67c5ff;
+   border: dashed 1px #67c5ff;
+   background: #f2fcff;
+   border-radius: 3px;
+   transition: .4s;
+}
+
+ .send:hover {
+   background: #cbedff;
+   color: #FFF;
+}
+ /* .select-box02{
+   width:700px;
+   margin:70px 70px 70px 70px;
+ } */

@@ -1,0 +1,57 @@
+body{
+  background:url("haikei.jpg") no-repeat center top fixed;
+  background-size: cover;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1{
+  font-size: 50px;
+  margin: 120px;
+  color: #FF6347
+
+}
+
+input[type="text"] {
+  border: 3px solid #999;
+}
+input[type="text"]:focus {
+  border: 3px solid #ff9900;
+  outline: 0;
+}
+
+
+
+form{
+  font-size: 25px;
+}
+
+
+.button {
+  margin: 40px;
+  display       : inline-block;
+  border-radius : 50%;
+  font-size     : 25pt;
+  text-align    : center;
+  cursor        : pointer;
+  padding       : 30px 36px;
+  background    : #FFCC00;
+  color         : #000000;
+  line-height   : 1em;
+  opacity       : 1;
+  transition    : .3s;
+  box-shadow    : 4px 4px 4px #666666;
+}
+.button:hover{
+  box-shadow    : none;
+  opacity       : 0.8;
+}
+
+
+h2{
+  font-size: 20px;
+  margin: 30px;
+}

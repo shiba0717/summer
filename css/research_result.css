@@ -1,0 +1,32 @@
+body{
+   background-image : url("background_research_reslut.jpg");
+   background-size: 1400px;
+   background-size: cover;
+   font-family:"MV Boil";
+}
+
+h1{
+  font-size: 60px;
+}
+
+ .kekka1{
+   font-family: "gungsuhche";
+   height: 10rem;
+   position: absolute;
+   top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  margin: auto;
+  text-align: center;
+  }
+
+  .kekka1 p {
+    font-size: 40px;
+    padding: 0px 0px 70px;
+    filter: url(#squiggly-1);
+  }
+
+  .kekka2 p {
+    font-size: 20px;
+  }

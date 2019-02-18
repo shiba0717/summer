@@ -1,0 +1,17 @@
+body{
+  background-image : url("background_resv.jpg");
+  background-size: cover;
+}
+
+.resv1{
+  font-family: "MV Boil";
+  height: 10rem;
+  position: absolute;
+  top: 0px;
+ right: 800px;
+ bottom: 400px;
+ left: 0px;
+ margin: auto;
+ text-align: center;
+ color: #deb887;
+ }

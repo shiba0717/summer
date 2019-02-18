@@ -1,0 +1,10 @@
+body{
+  font-family:sans-serif;
+  background-image: url("reg.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  font-family: "MV Boil";
+}

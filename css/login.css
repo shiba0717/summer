@@ -1,0 +1,56 @@
+body{
+  background-color:red;
+  font-family:sans-serif;
+  background-image: url("login.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  font-family: "MV Boil";
+
+}
+
+.form_cotainer{
+  width: 710px;
+    margin: 0 auto;
+}
+.store_login{
+  display: inline-block;
+}
+.customer_login{
+    display: inline-block;
+}
+
+input#keyword {
+  border:none;
+  border-radius:10px;
+  box-shadow: none;
+  padding: 2px 8px;
+}
+
+input#keyword:focus {
+  outline: none;
+}
+
+
+input[type="text"],
+textarea {
+    padding: 0.8em;
+    outline: none;
+    border: 1px solid #DDD;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font-size: 16px;
+}
+textarea {
+    width: 300px;
+}
+
+
+
+
+.button{
+  bacgroud-color:blue;
+}
